@@ -1,0 +1,413 @@
+
+<html>
+	<head>
+		<title>Divinefavour Okpala | Data Analyst Portfolio</title>
+        <meta name="description" content="Portfolio of Divinefavour Okpala, a data analyst specializing in SQL, Excel, Power BI, Tableau, Python, data visualization, and business intelligence." />
+        <meta name="author" content="Divinefavour Okpala" />
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper" class="fade-in">
+
+				<!-- Intro -->
+					<div id="intro">
+                        <h1>Divinefavour Okpala</h1>
+                        <p>
+                            <strong>Data Analyst | Business Intelligence | Data Visualization</strong><br />
+                            I turn raw data into clear insights that support better business decisions.
+                            Using SQL, Excel, Power BI, Tableau, and Python, I clean, analyze, visualize,
+                            and communicate data in a practical and decision-focused way.
+                        </p>
+						<ul class="actions">
+							<li><a href="#header" class="button icon solid solo fa-arrow-down scrolly">Continue</a></li>
+						</ul>
+					</div>
+
+				<!-- Header -->
+					<header id="header">
+						<a href="index.html" class="logo">Divinefavour Okpala</a>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul class="links">
+							<li class="active"><a href="index.html">Portfolio</a></li>
+                            <li><a href="#contact">Contact</a></li>
+							
+						</ul>
+						<ul class="icons">
+							<li><a href="https://www.linkedin.com/in/divinefavour-okpala-317180279/" target="_blank" rel="noopener noreferrer" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+							<li><a href="https://github.com/Divsomto" target="_blank" rel="noopener noreferrer" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Featured Post -->
+							<article class="post featured">
+								<header class="major">
+									
+									<h2><a href="https://drive.google.com/file/d/13pE-FfqK8G73srCv-D08IT1CV8sQBQeu/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Data Cleaning and Visualization in Python<br />
+									</a></h2>
+									<p>In this project i used Python for data cleaning, transformation, and visualization with Pandas, Matplotlib, Seborn, and Plotly.</p>
+								</header>
+								<a href="https://drive.google.com/file/d/13pE-FfqK8G73srCv-D08IT1CV8sQBQeu/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="image main"><img src="images/Python image.jpg" alt="" /></a>
+								<ul class="actions special">
+									<li><a href="https://drive.google.com/file/d/13pE-FfqK8G73srCv-D08IT1CV8sQBQeu/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="button large">View Project</a></li>
+								</ul>
+							</article>
+
+                        <!-- About / Capabilities -->
+                        <section class="post">
+                            <header class="major">
+                                <h2>Data Analytics &amp; Business Intelligence</h2>
+                                <p>
+                                    I work across the analytics lifecycle—from data cleaning and transformation
+                                    to analysis, dashboard development, and insight communication.
+                                </p>
+                            </header>
+                            <div class="box">
+                                <div class="row">
+                                    <div class="col-4 col-12-small">
+                                        <h3>Data Analysis</h3>
+                                        <p>SQL, Excel, Python, Pandas, Power Query, and statistical analysis for transforming raw data into reliable insights.</p>
+                                    </div>
+                                    <div class="col-4 col-12-small">
+                                        <h3>BI &amp; Visualization</h3>
+                                        <p>Power BI, Tableau, DAX, interactive dashboards, KPI reporting, and visual storytelling for decision-makers.</p>
+                                    </div>
+                                    <div class="col-4 col-12-small">
+                                        <h3>Business Insights</h3>
+                                        <p>Performance analysis, trend identification, data quality assessment, and translating findings into actionable recommendations.</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </section>
+
+						<!-- Posts -->
+							<section class="posts">
+								<article>
+									<header>
+									
+										<h2><a href="https://drive.google.com/file/d/1JD1naXZpmNvFbmeX0D3havoVwfBgH0bP/view?usp=drive_link" target="_blank" rel="noopener noreferrer">Data Transformation and Visualization in PowerBI<br />
+										</a></h2>
+									</header>
+									<a href="https://drive.google.com/file/d/1JD1naXZpmNvFbmeX0D3havoVwfBgH0bP/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="image fit"><img src="images/Screenshot 2025-08-27 005711.png" alt="" /></a>
+									<p>Developed an Interactive Dashboard Analyzing Survey Responses from Data Professionals.</p>
+									<ul class="actions special">
+										<li><a href="https://drive.google.com/file/d/1JD1naXZpmNvFbmeX0D3havoVwfBgH0bP/view?usp=drive_link" target="_blank" rel="noopener noreferrer" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+    <header>
+        <h2>
+            <a href="https://drive.google.com/file/d/1SRfhjlUw-WUo6hNba0wowvH-SKFMeq5i/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+                Business Analysis Using Power BI &amp; DAX
+            </a>
+        </h2>
+    </header>
+
+    <a href="https://drive.google.com/file/d/1SRfhjlUw-WUo6hNba0wowvH-SKFMeq5i/view?usp=sharing" target="_blank" rel="noopener noreferrer"
+       class="image fit">
+        <img src="images/Screenshot 2026-05-18 171633.png" alt="Power BI Business Analysis Dashboard" />
+    </a>
+
+    <p>
+        An end-to-end Sales and HR analytics solution built with Power BI and DAX,
+        transforming Adventure Works data into actionable business insights.
+    </p>
+
+    <p><strong>Key Features:</strong></p>
+
+    <section>
+        <h2>Executive Summary</h2>
+        <p>
+            This project delivers an interactive Power BI analytics solution integrating
+            Sales and Human Resources data from the Adventure Works database. By combining
+            financial, operational, and workforce metrics, the dashboard provides
+            stakeholders with a comprehensive view of business performance, profitability,
+            and employee distribution.
+        </p>
+    </section>
+
+    <section>
+        <h2>Key Insights &amp; Business Highlights</h2>
+
+        <h3>Sales &amp; Revenue Analytics</h3>
+        <ul>
+            <li>
+                <strong>Revenue &amp; Profitability:</strong>
+                Analyzed sales performance, revenue, profit margins, and regional growth
+                to identify key business drivers.
+            </li>
+            <li>
+                <strong>Order &amp; Product Performance:</strong>
+                Evaluated order volumes and product performance to identify high-performing
+                product lines and seasonal sales trends.
+            </li>
+            <li>
+                <strong>Regional Performance:</strong>
+                Compared sales performance across territories to identify strong markets
+                and opportunities for improvement.
+            </li>
+        </ul>
+
+        <h3>HR &amp; Workforce Analytics</h3>
+        <ul>
+            <li>
+                <strong>Workforce Structure:</strong>
+                Analyzed employee headcount across departments, roles, and tenure groups
+                to understand workforce distribution.
+            </li>
+            <li>
+                <strong>Compensation Analysis:</strong>
+                Evaluated salary distributions across departments and job functions to
+                identify compensation patterns and support pay-equity analysis.
+            </li>
+            <li>
+                <strong>Workforce Productivity:</strong>
+                Analyzed sick leave and time-off trends alongside departmental metrics
+                to identify workforce efficiency patterns.
+            </li>
+        </ul>
+    </section>
+
+    <section>
+        <h2>Technical Approach</h2>
+        <ul>
+            <li>
+                <strong>Data Modeling:</strong>
+                Built a structured star-schema data model connecting Sales, HR, and
+                supporting lookup tables for reliable analysis and filtering.
+            </li>
+            <li>
+                <strong>DAX Development:</strong>
+                Developed custom DAX measures for KPIs, sales and profit analysis,
+                time-intelligence calculations, year-over-year and month-over-month
+                comparisons, and HR metrics.
+            </li>
+            <li>
+                <strong>Data Relationships:</strong>
+                Resolved relationship and cross-filtering challenges to ensure accurate
+                aggregations and consistent dashboard interactions.
+            </li>
+            <li>
+                <strong>Dashboard Design:</strong>
+                Designed an intuitive, interactive dashboard with structured navigation
+                and visual storytelling to make complex business data easier to interpret.
+            </li>
+        </ul>
+    </section>
+
+    <div class="quick-summary-box">
+        <h3>Project Overview</h3>
+
+        <p>
+            A comprehensive Sales and HR analytics dashboard developed using
+            <strong>Power BI, DAX, and the Adventure Works dataset</strong>.
+        </p>
+
+        <ul>
+            <li>
+                <strong>Sales Intelligence:</strong>
+                Revenue, profitability, product performance, order trends, and regional
+                sales analysis.
+            </li>
+            <li>
+                <strong>HR Analytics:</strong>
+                Workforce distribution, tenure, compensation, sick leave, and
+                departmental analysis.
+            </li>
+            <li>
+                <strong>Data Modeling:</strong>
+                Star-schema design, optimized relationships, and reliable cross-filtering.
+            </li>
+            <li>
+                <strong>DAX &amp; Reporting:</strong>
+                Custom measures, dynamic KPIs, time-intelligence calculations, and
+                interactive data visualization.
+            </li>
+        </ul>
+    </div>
+
+	<ul class="actions special">
+    <li>
+        <a href="https://drive.google.com/file/d/1P7oPhQW9c3uQEZDyjmKt_i50oEBoQOUn/view?usp=sharing"
+           class="button"
+           target="_blank">
+            View Dashboard
+        </a>
+    </li>
+    <li>
+        <a href="https://drive.google.com/file/d/1SRfhjlUw-WUo6hNba0wowvH-SKFMeq5i/view?usp=sharing"
+           class="button"
+           target="_blank">
+            View PDF Report
+        </a>
+    </li>
+</ul>								
+    <!-- <ul class="actions special">
+        <li>
+            <a href="https://drive.google.com/file/d/1SRfhjlUw-WUo6hNba0wowvH-SKFMeq5i/view?usp=sharing" target="_blank" rel="noopener noreferrer"
+               class="button">
+                View Project
+            </a>
+        </li>
+    </ul>
+</article> -->
+								<article>
+									<header>
+									
+										<h2><a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link" target="_blank" rel="noopener noreferrer">SQL Analysis: Quantifying Primary Healthcare Access in Nigeria<br />
+										</a></h2>
+									</header>
+									<a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link" target="_blank" rel="noopener noreferrer" class="image fit"><img src="images/1000257968.jpg" alt="" /></a>
+									<p>​For the Primary Healthcare Access and Coverage Analysis, the SQL workflow was designed to transform disparate datasets—raw functional facility counts and WorldPop population estimates—into a unified, quantifiable metric for visualization.</p>
+
+<p>​This script served as the single source of truth for the analysis, using the following key techniques to prepare the data for Power BI visualization:</p>
+
+<p>​- Common Table Expressions (CTEs): Used to modularize the data flow, first to aggregate and clean the raw facility data by Local Government Area (LGA), and a second to calculate the final coverage ratio.</p>
+<p>​- Data Aggregation and Grouping (GROUP BY): Essential for totaling the number of functional PHCs per unique LGA.</p>
+​<p>- Calculations and Casting (CAST): The core metric, Population per Functional PHC, was calculated by dividing the LGA population by the facility count. The CAST function was used to ensure the division was performed as a decimal, preserving the precision of the coverage ratio.</p>
+<p>- ​Conditional Logic (CASE / NULLIF): A CASE statement was implemented to create the final qualitative categories (Good, Moderate, Poor) for visualization, allowing the dashboard to easily segment LGAs based on the ratio (e.g., Poor if > 20,000). 
+The NULLIF function was used to prevent division-by-zero errors in LGAs where no functional PHCs were reported.</p>
+​<p>- Data Integration (LEFT JOIN): A LEFT JOIN was performed to merge the WorldPop LGA population data with the calculated PHC count, ensuring every LGA was included in the final result set, even those with zero functional facilities.</p>
+									<ul class="actions special">
+										<li><a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link" target="_blank" rel="noopener noreferrer" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+                                    <header>
+                                        <h2>
+                                            <a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link"
+                                               target="_blank" rel="noopener noreferrer">
+                                                SQL Analysis: Quantifying Primary Healthcare Access in Nigeria
+                                            </a>
+                                        </h2>
+                                    </header>
+
+                                    <a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link"
+                                       class="image fit" target="_blank" rel="noopener noreferrer">
+                                        <img src="images/1000257968.jpg"
+                                             alt="Primary healthcare access analysis visualization" />
+                                    </a>
+
+                                    <p>
+                                        Used SQL to transform facility and WorldPop population data into a
+                                        unified measure of primary healthcare access across Nigerian LGAs.
+                                    </p>
+
+                                    <p>
+                                        <strong>Techniques:</strong> CTEs, GROUP BY, CAST, CASE, NULLIF,
+                                        and LEFT JOIN.
+                                    </p>
+
+                                    <p>
+                                        <strong>Key Metric:</strong> Population per Functional PHC, categorized
+                                        into Good, Moderate, and Poor coverage levels for visualization.
+                                    </p>
+
+                                    <ul class="actions special">
+                                        <li>
+                                            <a href="https://drive.google.com/drive/folders/1LFrVJ6EPaj5LDhw6lkp1wTC5OOPrzV3p?usp=drive_link"
+                                               class="button" target="_blank" rel="noopener noreferrer">
+                                                View Project
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </article>
+								<article>
+									<header>
+										
+										<h2><a href="https://docs.google.com/spreadsheets/d/1n2Ny0FO_YcOm9qvbH5ka3lyhlKQFhIw4/edit?usp=drive_link&ouid=112981278326704308626&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer">Sales Performance Analysis in Excel<br />
+										</a></h2>
+									</header>
+									<a href="https://docs.google.com/spreadsheets/d/1n2Ny0FO_YcOm9qvbH5ka3lyhlKQFhIw4/edit?usp=drive_link&ouid=112981278326704308626&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" class="image fit"><img src="images/file_00000000f430624398b4171715a7726c.png" alt="" /></a>
+									<p>Developed an interactive Excel dashboard to analyze bike sales data across different regions, customer segments, and customer trends.</p>
+									<ul class="actions special">
+										<li><a href="https://docs.google.com/spreadsheets/d/1n2Ny0FO_YcOm9qvbH5ka3lyhlKQFhIw4/edit?usp=drive_link&ouid=112981278326704308626&rtpof=true&sd=true" target="_blank" rel="noopener noreferrer" class="button">View Project</a></li>
+									</ul>
+								</article>
+								<article>
+									<header>
+										
+										<h2><a href="https://drive.google.com/drive/folders/13VVUcl0Fj_xhMH6nSmGuAqITAVj7cvfN?usp=drive_link" target="_blank" rel="noopener noreferrer">Advanced Excel Analysis of AI Model Bias and Performance<br />
+										</a></h2>
+									</header>
+									<a href="https://drive.google.com/drive/folders/13VVUcl0Fj_xhMH6nSmGuAqITAVj7cvfN?usp=drive_link" target="_blank" rel="noopener noreferrer" class="image fit"><img src="images/Screenshot 2025-10-20 173401.png" alt="" /></a>
+									<p>This project involved a comprehensive analysis of an AI model's performance in classifying farmer plots as Valid or Invalid against human validation, addressing a critical bias issue and driving actionable improvement strategies.</p>
+
+<p>Skills Demonstrated: Data Analysis, Power Query (ETL), Pivot Table Construction, Data Visualization (Excel Dashboard/Charts), Performance Metrics Calculation, Technical & Strategic Reporting.</p>
+
+<p>Challenge</p>
+<p>The core challenge was a systemic bias in the AI model, resulting in a True Negative (TN) rate of 0 (the model never correctly identified an Invalid plot). This severe bias led to high False Positives (FP=256), where the AI consistently overestimated Valid plots.</p>
+
+<p>Action & Analysis</p>
+
+<p>I utilized Excel, Power Query, and Pivot Tables to clean, analyze, and segment a 500-plot dataset, calculating Accuracy (40%), Precision (44%), and Recall (82%). My analysis pinpointed specific areas of failure across various subgroups:</p>
+<p> - Subgroup Mismatches: Identified that the AI struggles most with Medium farms (107 mismatches) and crops like Rice (68 mismatches) and Sorghum (60 mismatches).</p>
+<p> - Geographic & Demographic Patterns: Found that the AI performed lowest for the 45+ age group and showed a bias toward over-validating plots from Uganda and Zambia.</p>
+<p> - Visualization: Developed an interactive Excel Dashboard and charts to visually communicate these complex subgroup insights to stakeholders.</p>
+
+<p>Impact & Recommendations</p>
+
+<p>The analysis delivered concrete, two-pronged recommendations for model improvement and operational change:</p>
+<p> - Technical Fixes: Recommended retraining the AI with a balanced dataset and including farm size, crop type, and age group as contextual features to mitigate the bias.</p>
+<p> - Operational Strategy: Advised leadership to prioritize manual review for high-risk categories (Medium farms, Rice, and Sorghum) to improve efficiency while the model is updated. The data also informed the need for focused training for human validators in high-error regions.</p>
+									<ul class="actions special">
+										<li><a href="https://drive.google.com/drive/folders/13VVUcl0Fj_xhMH6nSmGuAqITAVj7cvfN?usp=drive_link" target="_blank" rel="noopener noreferrer" class="button">View Project</a></li>
+									</ul>
+								</article>
+								
+
+						</section>
+						<section class="split contact" id="contact">
+							<section class="alt">
+								<h3>Location</h3>
+								<p>
+								Lagos, NG </p>
+							</section>
+							<section>
+								<h3>Phone</h3>
+								<p><a href="tel:+2349030190429">(+234) 903-019-0429</a></p>
+							</section>
+							<section>
+								<h3>Email</h3>
+								<p><a href="mailto:divsomto@gmail.com">divsomto@gmail.com</a></p>
+							</section>
+							<section>
+								<h3>Social</h3>
+								<ul class="icons alt">
+									
+									<li><a href="https://www.linkedin.com/in/divinefavour-okpala-317180279/" target="_blank" rel="noopener noreferrer" class="icon brands alt fa-linkedin"><span class="label">linkedin</span></a></li>
+									<li><a href="https://github.com/Divsomto" target="_blank" rel="noopener noreferrer" class="icon brands alt fa-github"><span class="label">GitHub</span></a></li>
+								</ul>
+							</section>
+						</section>
+					</footer>
+
+				<!-- Copyright -->
+					<div id="copyright">
+						<ul><li>&copy; 2026 Divinefavour Okpala</li><li>Built with <a href="https://html5up.net" target="_blank" rel="noopener noreferrer">HTML5 UP</a></li></ul>
+					</div>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+
+</html>
